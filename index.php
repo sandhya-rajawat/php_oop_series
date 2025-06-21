@@ -14,7 +14,8 @@
 // include './magic_method_13.php';
 // include './Destruct_14.php';
 // include './autoload_method_15.php';
-include './get_magic_method_16.php';
+// include './get_magic_method_16.php';
+include './set_magic_method_17.php';
 
 
 ?>
