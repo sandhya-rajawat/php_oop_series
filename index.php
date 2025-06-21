@@ -15,7 +15,11 @@
 // include './Destruct_14.php';
 // include './autoload_method_15.php';
 // include './get_magic_method_16.php';
-include './set_magic_method_17.php';
+// include './set_magic_method_17.php';
+// include './call_magic_method_18.php';
+// include './CallStatic_19.php';
+// include './isset_method_20.php';
+include './unset_method_21.php';
 
 
 ?>
