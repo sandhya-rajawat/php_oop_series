@@ -19,7 +19,10 @@
 // include './call_magic_method_18.php';
 // include './CallStatic_19.php';
 // include './isset_method_20.php';
-include './unset_method_21.php';
+// include './unset_method_21.php';
+// include './invoke_method_22.php';
+// include './magic_constants_23.php';
+include './conditional_functions_24.php';
 
 
 ?>
