@@ -71,20 +71,20 @@
 // print_r($class_vars);
 
 // 5.  get_object_vars();
-// class abc{
-//   private $name='Sandya';
-//   public $age=23;
-//   protected $lastname='Rajawat'; 
-// function __construct()
-// {
-// $this->name;
-// $this->age;
+class abc{
+  private $name='Sandya';
+  public $age=23;
+  protected $lastname='Rajawat'; 
+function __construct()
+{
+$this->name;
+$this->age;
 
-//  $class_object=get_object_vars($this);
-//  print_r($class_object);
-// }
-// }
-//  $obj=new abc();
+ $class_object=get_object_vars($this);
+ print_r($class_object);
+}
+}
+ $obj=new abc();
 
 
 
